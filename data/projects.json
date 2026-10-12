@@ -1,0 +1,32 @@
+{
+  "name": "Jeralene Garcia",
+  "githubUsername": "jeralenegarcia-50",
+  "tagline": "Aspiring IT Student",
+  "introduction": "I am a BSINTE student who is still learning and exploring IT.",
+  "profileImage": "images/profile.jpg",
+  "about": {
+    "biography": "I am a second-year student at Nueva Vizcaya State University. I like learning new things in IT step by step.",
+    "school": "Nueva Vizcaya State University",
+    "program": "Bachelor of Science in Information Technology",
+    "graduation": "Expected graduation: 2028",
+    "careerGoal": "I want to finish my studies and improve my skills in IT. I want to have a stable job in the future.",
+    "interests": "I like learning on the computer, watching tutorial videos, and doing school activities. I also like listening to music while studying."
+  },
+  "skills": ["Basic Computer Skills", "Microsoft Office", "Teamwork", "Willing to Learn", "Time Management"],
+  "projects": [
+    {
+      "title": "My Portfolio",
+      "description": "This is my portfolio website for our school project. It shows my profile and simple information about me.",
+      "technologies": "HTML, CSS, JavaScript",
+      "role": "I made this portfolio for our subject.",
+      "image": "https://placehold.co/600x400/7B2CBF/FFFFFF/png?text=My+Portfolio",
+      "link": "./index.html"
+    }
+  ],
+  "contact": {
+    "email": "jeralenegarcia.50@gmail.com",
+    "location": "Aritao, Nueva Vizcaya",
+    "github": "https://github.com/jertgarcia",
+    "linkedin": ""
+  }
+}
