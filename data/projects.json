@@ -21,8 +21,16 @@
       "role": "I made this portfolio for our subject.",
       "image": "https://placehold.co/600x400/7B2CBF/FFFFFF/png?text=My+Portfolio",
       "link": "./index.html"
-    }
-  ],
+    },
+        {
+          "title": "Lost & Found Board - Campus",
+          "description": "A simple mobile web app for reporting lost and found items on campus. Students can post lost or found items, search, filter by category, and mark items as claimed.",
+          "technologies": "HTML, CSS, JavaScript",
+          "role": "I made this app for our final project.",
+          "image": "https://placehold.co/600x400/4F46E5/FFFFFF/png?text=Lost+%26+Found",
+          "link": "https://github.com/jeralenegarcia-50/lost-and-found-app"
+        }
+      ],
   "contact": {
     "email": "jeralenegarcia.50@gmail.com",
     "location": "Aritao, Nueva Vizcaya",
